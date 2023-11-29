@@ -8,3 +8,10 @@ accountEmail = "mnk123@gmail.com"
 accountPassword = "82727";
 accountCity= "delhi"
 console.log(accountEmail,accountPassword,accountCity);
+console.table([accountEmail,accountPassword,accountCity])// its new for me and amazing create a table nice view 
+let accountState;
+console.log(accountState);
+/*
+Prefer do not use var ..
+
+*/
