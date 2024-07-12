@@ -15,3 +15,14 @@ console.log(accountState);
 Prefer do not use var ..
 
 */
+
+/*
+1. let and const are two new methods for declaring variable in js
+that were added in ES6. The var keyword was the sole way to declare variable prior to this introduction.
+
+2.var is least strict of three, allowing reassigning values to the variable. This declaration can lead to unexpected results and is generally considered bad practice ,so it is rarely used.
+
+3.let and const are more strict then var. Variables declared using let can be re assigned values similer to the var declarations.
+
+4.const is the most strict of the three . When a variable is declared with const , it cannot be reassigned to new value. this prevents accidental reassignments and makes the code more predictabe.
+*/
